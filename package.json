@@ -1,5 +1,5 @@
 {
-  "name": "weather-app",
+  "name": "weather_app",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -15,7 +15,14 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ushnanafees/weather-app-heroku.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ushnanafees/weather-app-heroku/issues"
+  },
+  "homepage": "https://github.com/ushnanafees/weather-app-heroku#readme"
 }
